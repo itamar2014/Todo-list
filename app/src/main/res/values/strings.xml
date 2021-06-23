@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="new_task">NEW TASK</string>
+    <string name="priority">Priority</string>
+    <string name="newtask">New Task</string>
+    <string name="dead_line">Dead Line</string>
+    <string name="hi_priority">High Priority</string>
+    <string name="delete_task">Delete TASK</string>
+    <string name="select_date">Select Date</string>
+    <string name="update">Update</string>
+</resources>
